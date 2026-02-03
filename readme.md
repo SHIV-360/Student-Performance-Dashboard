@@ -15,7 +15,7 @@ This project provides a complete solution for analyzing student academic perform
 ```
 student_dashboard/
 ├── students_data.csv              # Generated CSV with 1000 student records
-├── generate_student_data.py       # Script to generate student data
+├── generate_data.py       # Script to generate student data
 ├── dashboard.py                   # Streamlit dashboard application
 ├── requirements.txt               # Python dependencies
 └── README.md                      # This file
